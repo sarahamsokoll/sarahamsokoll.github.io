@@ -1,6 +1,27 @@
+h1 {
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
 h2 {
-    color: lightblue;
+    color: magenta;
     font-size: 18px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+p { 
+    font-family: "Italiana", serif;
+    font-weight: 400;
+    font-style: normal; 
 }
 
 img {
